@@ -1,6 +1,6 @@
 # National-Key-Research-and-Development-Program-of-China
 LaCo5
-	      site	 a(Å)	 c(Å)	 c/a	V(Å3)  Esub(eV)   MS(μB)  μ0Ms(T)  MAE(meV) μ0Ha(T)  Tc(K)  Tc(℃)
+	 site	 a(Å)	 c(Å)	 c/a	V(Å3)  Esub(eV)   MS(μB)  μ0Ms(T)     MAE(meV) μ0Ha(T)  Tc(K)  Tc(℃)
 ScCo5     1a	4.747 	3.977 	0.84 	77.61 	-1.29      8.01   1.20  	2.59     11.17    952	 679 
 LaCo4Sc   2c	5.296 	3.970 	0.75 	96.46 	 0.11      5.61   0.68  	0.06     0.37 	  285	 12 
 LaCo4Sc   3g	5.307 	4.093 	0.77 	96.76 	-0.23      5.81   0.70  	1.69     10.06    413	 140 
