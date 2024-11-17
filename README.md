@@ -1,6 +1,6 @@
 # National-Key-Research-and-Development-Program-of-China
 SmCo5 (Sm2Co10)
-model        site  a(Å)   c(Å)   c/a  V(Å3)  Esub(eV)  MS(μB) μ0Ms(T) MAE(meV)  μ0Ha(T)
+            site  a(Å)   c(Å)   c/a  V(Å3)  Esub(eV)  MS(μB) μ0Ms(T) MAE(meV)  μ0Ha(T)
 SmCo10Sc     1a  4.849  3.966  0.82  80.78   -0.10     8.17    1.18    8.18     34.58 
 Sm2Co9Sc     2c  5.059  3.999  0.79  88.65    0.27     6.99    0.92    7.11     35.15 
 Sm2Co9Sc     3g  5.139  4.081  0.79  89.49    0.00     6.81    0.89    6.69     33.99 
@@ -42,7 +42,7 @@ Sm2Co9Zr     2c  5.077  4.015  0.79  89.64    0.42     6.87    0.89    6.65     
 Sm2Co9Zr     3g  5.118  4.079  0.80  89.76    0.21     6.70    0.87    7.53     38.85 
 	
 	
-model      concentration(at%)  a(Å)   c(Å)   c/a  V(Å3)  Esub(eV)  MS(μB) μ0Ms(T) MAE(meV)  μ0Ha(T)	  
+        concentration(at%)  a(Å)   c(Å)   c/a  V(Å3)  Esub(eV)  MS(μB) μ0Ms(T) MAE(meV)  μ0Ha(T)	  
 		   
 Sm2Co10      0             4.965  3.947  0.80  84.27   0.00      8.32   1.15    11.15     46.32 
 Sm2Co9Cr     10            5.008  3.989  0.80  85.51  -0.75      9.54   1.30    9.62      34.84 
