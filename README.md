@@ -1,5 +1,5 @@
 # National-Key-Research-and-Development-Program-of-China
-Sm2Co7-H (Sm8Co28)
+Sm2Co7-H (Sm8Co28) (Screening of 58 stabilized structures)
              site   a(Å)    c(Å)     c/a    V(Å3)  Esub(eV)  MS(μB)  μ0Ms(T)  
              2a    5.055   24.306   4.81   537.88   0.94     41.95    0.91 
 Sm8Co27Sc    4e    5.052   24.183   4.79   534.53   0.35     39.62    0.86 
