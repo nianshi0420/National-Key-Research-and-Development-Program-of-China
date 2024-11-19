@@ -1,5 +1,5 @@
 # National-Key-Research-and-Development-Program-of-China
-Sm2Co17 (Sm6Co51)
+Sm2Co17 (Sm6Co51) (Screening of 92 stabilized structures)
              site   a(Å)    c(Å)   c/a  V(Å3)   Esub(eV) MS(μB)  μ0Ms(T) MAE(meV)  μ0Ha(T)
 Sm5Co51Sc    sm-6c 8.313  12.107  1.46  724.59  -0.15    88.89    1.43     21.15     8.22 
 Sm6Co50Sc    6c    8.388  12.044  1.44  733.82   5.20    83.80    1.33     128.73    53.07 
