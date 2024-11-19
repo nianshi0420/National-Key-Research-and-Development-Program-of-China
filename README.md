@@ -1,4 +1,5 @@
 # xituyongcicailiao
+RCo5  Screening of 17 stabilized structures
 model  a(Å)   c(Å)   c/a  V(Å3) Ef(eV)  Ms(μB)  μ0Ms(T)  MAE(meV)  μ0Ha(T)  Ku(MJ/m3)  Tc(K)  
 ScCo5  4.746  3.978  0.84 77.6  -0.11    8.01    1.20     2.57      11.09     5.31      838    
 YCo5   4.917  3.945  0.80 82.6  -0.12    8.18    1.15     3.47      14.66     6.73      829    
