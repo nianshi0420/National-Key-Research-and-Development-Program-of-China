@@ -1,5 +1,5 @@
 # National-Key-Research-and-Development-Program-of-China
-Sm2Co7-R(Sm12Co42)
+Sm2Co7-R(Sm12Co42)  (Screening of 74 stabilized structures)
               site    a(Å)     c(Å)     c/a     V(Å3)   Esub(eV)  MS(μB)  μ0Ms(T)
               3b     5.036    36.455    7.24    800.81    0.97    63.32    0.92 
               6c1    5.037    36.347    7.22    798.48    0.42    62.16    0.91 
