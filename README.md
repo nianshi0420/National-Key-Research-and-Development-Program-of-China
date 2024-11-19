@@ -1,5 +1,5 @@
 # National-Key-Research-and-Development-Program-of-China
-SmCo3 (Sm9Co27)
+SmCo3 (Sm9Co27) (Screening of 56 stabilized structures)
              site  a(Å)     c(Å)     c/a    V(Å3)  Esub(eV)  MS(μB)  μ0Ms(T)
 Sm9Co26Sc    3b    5.054   24.742    4.90   547.36   0.82    38.07    0.81 
 Sm9Co26Sc    6c    5.063   24.500    4.84   543.84   0.25    36.93    0.79 
