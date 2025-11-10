@@ -1,5 +1,5 @@
 # National-Key-Research-and-Development-Program-of-China
-SmCo5 (Sm2Co10) (Screening of 40 stabilized structures)
+SmCo5 (Sm2Co10) (Screening of 96 stabilized structures)
             site  a(Å)   c(Å)   c/a  V(Å3)  Esub(eV)  MS(μB) μ0Ms(T) MAE(meV)  μ0Ha(T)
 SmCo10Sc     1a  4.849  3.966  0.82  80.78   -0.10     8.17    1.18    8.18     34.58 
 Sm2Co9Sc     2c  5.059  3.999  0.79  88.65    0.27     6.99    0.92    7.11     35.15 
