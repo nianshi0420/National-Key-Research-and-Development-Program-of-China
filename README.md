@@ -7,3 +7,6 @@ Screening of 56 stabilized structures in SmCo3
 Screening of 58 stabilized structures in Sm2Co7-H
 Screening of 74 stabilized structures in Sm2Co7-R
 Total of 422 stabilized structures were screened.
+
+Copyright Statement:
+The database is the intellectual property of Shanxi Normal University. For authorization or inquiries, please contact: yanzhi@sxnu.edu.cn
