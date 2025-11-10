@@ -3,22 +3,9 @@ Note: The following database was developed under the National Key R&D Program of
 
 This is a high-throughput–computed database of stable crystal structures for Sm–Co–based systems with various transition-metal dopants and structural phases. The database includes the following parameters:
 
-Crystal structure files (.cif)
+Crystal structure files (.cif); Lattice constant a (Å); Cell volume V (Å³); Substitution (formation) energy Eₛᵤᵦ (eV); Magnetic moment Mₛ (μB); Saturation magnetization μ₀Mₛ (T); Magnetocrystalline anisotropy energy (MAE, meV); Magnetocrystalline anisotropy field μ₀Hₐ (T)
 
-Lattice constant a (Å)
-
-Cell volume V (Å³)
-
-Substitution (formation) energy Eₛᵤᵦ (eV)
-
-Magnetic moment Mₛ (μB)
-
-Saturation magnetization μ₀Mₛ (T)
-
-Magnetocrystalline anisotropy energy (MAE, meV)
-
-Magnetocrystalline anisotropy field μ₀Hₐ (T)
-
+# database:
 Screening of 17 stabilized structures in RCo5;
 
 Screening of 29 stabilized structures in LaCo5;
