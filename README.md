@@ -1,3 +1,23 @@
+# Note:
+The following database was developed under the National Key R&D Program of China – Rare Earth Special Project “High-Coercivity Pr/Nd-Free Rare-Earth–Cobalt-Based Permanent Magnetic Materials and Fabrication Technology” (Grant No. 2022YFB3505300) — Subproject 1: Design of Functional Building Units for Pr/Nd-Free Rare-Earth–Cobalt-Based Hard Magnetic Phases (Grant No. 2022YFB3505301).
+
+This is a high-throughput–computed database of stable crystal structures for Sm–Co–based systems with various transition-metal dopants and structural phases. The database includes the following parameters:
+
+Crystal structure files (.cif)
+
+Lattice constant a (Å)
+
+Cell volume V (Å³)
+
+Substitution (formation) energy Eₛᵤᵦ (eV)
+
+Magnetic moment Mₛ (μB)
+
+Saturation magnetization μ₀Mₛ (T)
+
+Magnetocrystalline anisotropy energy (MAE, meV)
+
+Magnetocrystalline anisotropy field μ₀Hₐ (T)
 
 # National-Key-Research-and-Development-Program-of-China(2022YFB3505301)
 
