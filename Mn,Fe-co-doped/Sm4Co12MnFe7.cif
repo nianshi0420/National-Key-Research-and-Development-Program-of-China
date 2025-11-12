@@ -1,0 +1,54 @@
+
+#======================================================================
+# CRYSTAL DATA
+#----------------------------------------------------------------------
+data_VESTA_phase_1
+
+_chemical_name_common                  'Sm1 Co5                               '
+_cell_length_a                         10.161179
+_cell_length_b                         5.056575
+_cell_length_c                         7.810174
+_cell_angle_alpha                      90.004120
+_cell_angle_beta                       90.161629
+_cell_angle_gamma                      119.838654
+_cell_volume                           348.091419
+_space_group_name_H-M_alt              'P 1'
+_space_group_IT_number                 1
+
+loop_
+_space_group_symop_operation_xyz
+   'x, y, z'
+
+loop_
+   _atom_site_label
+   _atom_site_occupancy
+   _atom_site_fract_x
+   _atom_site_fract_y
+   _atom_site_fract_z
+   _atom_site_adp_type
+   _atom_site_U_iso_or_equiv
+   _atom_site_type_symbol
+   Sm1        1.0     0.000535     0.000546    -0.001063    Uiso  ? Sm
+   Sm2        1.0     0.500444     0.000424    -0.002000    Uiso  ? Sm
+   Sm3        1.0    -0.001941    -0.001934     0.501371    Uiso  ? Sm
+   Sm4        1.0     0.500602     0.000517     0.503876    Uiso  ? Sm
+   Co1        1.0     0.668532     0.668289     0.501324    Uiso  ? Co
+   Co2        1.0    -0.000161     0.499827     0.249617    Uiso  ? Co
+   Co3        1.0     0.248833     0.000792     0.250460    Uiso  ? Co
+   Co4        1.0     0.752526     0.000575     0.249143    Uiso  ? Co
+   Co5        1.0     0.248834     0.496975     0.250449    Uiso  ? Co
+   Co6        1.0     0.752508     0.504465     0.249104    Uiso  ? Co
+   Co7        1.0    -0.000273     0.499705     0.749227    Uiso  ? Co
+   Co8        1.0     0.248918    -0.002400     0.750472    Uiso  ? Co
+   Co9        1.0     0.248922     0.500384     0.750503    Uiso  ? Co
+   Co10       1.0     0.501448     0.501475     0.749559    Uiso  ? Co
+   Co11       1.0     0.750649     0.000905     0.749346    Uiso  ? Co
+   Co12       1.0     0.750619     0.500362     0.749393    Uiso  ? Co
+   Mn1        1.0     0.501846     0.501917     0.252627    Uiso  ? Mn
+   Fe1        1.0     0.166303     0.666242     0.499981    Uiso  ? Fe
+   Fe2        1.0     0.833086     0.333134     0.499871    Uiso  ? Fe
+   Fe3        1.0     0.166659     0.666626     0.000625    Uiso  ? Fe
+   Fe4        1.0     0.833268     0.333316    -0.001482    Uiso  ? Fe
+   Fe5        1.0     0.671654     0.671622    -0.004543    Uiso  ? Fe
+   Fe6        1.0     0.329736     0.329774    -0.003191    Uiso  ? Fe
+   Fe7        1.0     0.326454     0.326463     0.505331    Uiso  ? Fe
