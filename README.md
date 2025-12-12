@@ -13,14 +13,14 @@ Screening of 95 stabilized structures in SmCo5;
 
 Screening of 97 stabilized structures in Sm2Co17; 
 
-Screening of 64 stabilized structures in SmCo3; 
+Screening of 63 stabilized structures in SmCo3; 
 
 Screening of 67 stabilized structures in Sm2Co7-H; 
 
 Screening of 80 stabilized structures in Sm2Co7-R; 
 
 
-Total of 455 stabilized structures were screened.
+Total of 454 stabilized structures were screened.
 
 # Copyright Statement:
 The database is the intellectual property of Shanxi Normal University. For authorization or inquiries, please contact: yanzhi@sxnu.edu.cn
